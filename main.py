@@ -18,3 +18,7 @@ if __name__ == '__main__':
 
 str1="sturn"
 print(str1)
+
+text = "Hello"
+reversed_1= text[::-1]
+print(reversed_1)
