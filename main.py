@@ -7,7 +7,8 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
+    print("this is my dev branch")
+    print("hello")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
@@ -17,3 +18,7 @@ if __name__ == '__main__':
 
 str1="sturn"
 print(str1)
+
+text = "Hello"
+reversed_1= text[::-1]
+print(reversed_1)
